@@ -28,6 +28,16 @@ Enjoy :)
 | Pyraminx boomerang   | Yes | I successfully reached my goal of solving the pyraminx boomerang within 30 seconds yesterday, 19-10-2022. | My next goal is to try and solve the pyraminx boomerang within 15 seconds. | 14.90 | 15.45  | 17.70  | 7.29  |
 | Pyraminx  | Yes | I successfully reached my goal of solving the pyraminx in under 30 seconds at the start of the week on 17-10-2022. | My next goal is to solve the pyraminx within 20 seconds. | 18.34  | 20.34  | 19.77  | 18.01  |  
 
+Official Recorded Solve for the Regular Pyraminx: held by Mr. Osudar (recorded as of 18-10-2022)
+|   | Time (sec) |
+| ----| ---------| 
+| 1 | 1:40.10 |
+| 2  | 34.32 | 
+| 3  | 26.47 |  
+| 4  | 42.387|  
+| 5  | 30.654 | 
+| AO5  | 35.787 |  
+
 **ALGORITHMS:**  
   **Algorithm used to solve the 3x3 rubik's cube: Advanced CFOP / Fridrich Method**  
 > prior knowledge of cubing algorithms and cube faces is required.  
