@@ -85,6 +85,8 @@ _Reference video not available as this method was taught to me by Mr. Osudar in 
 8. Lastly, sometimes you need to turn the tip and first layer of the triangle to match the last layer to complete the Pyraminx.  
 For more information and references: https://www.youtube.com/watch?v=2H0FUvaaUsI&t=1s
 
-**AN INTELLECTUAL QUESTION: HOW DOES CUBING RELATE TO MATH AND COMPUTER SCIENCE?**
+**AN INTELLECTUAL QUESTION: HOW DOES CUBING RELATE TO MATH AND COMPUTER SCIENCE?/PROGRAMMING**  
+Rubik's Cube and mathematics have a number of connections. Rubik's Cube ties to arithmetic concepts like fractions, ratios, and proportional reasoning because it can be used to grasp surface area and volume as well as show a net of a familiar, three-dimensional solid. Second, as is common knowledge, the cube is a riddle of colour combinations, and combinations are studied in number theory and algebra, perhaps also in probability theory and other fields. All these are components of Math. Thirdly, let’s discuss how cubing is related to programming. 
+
 
 
