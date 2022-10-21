@@ -64,3 +64,14 @@ For more information and references: https://www.youtube.com/watch?v=xB9OFNyi-Uk
 
 **Algorithm used to solve the Pyraminx boomerang:**  
 > prior knowledge of cubing algorithms and cube faces is required.  
+1. Firstly perform different algorithms to solve one side of the triangle puzzle. This solved side will be placed down away from you.  
+2. Secondly, arrange the sides in a way that one side piece with two different colours in facing away from you respective to the solved-side on the bottom.   
+3. Now, perfrom the algorithm: R, L', R, L', R.  At this point you should two sides of the triangle solved, the one on the bottom plus on the 3 sides at the top front.  
+4. Now, repeat step 2 and perform the following algorithm: R, L', R, L', R.  
+5. At this point, the Pyraminx boomerang should be solved completely!  
+_Reference video not available as this was taught to me by Mr. Osudar in class._ 
+
+**Algorithm used to solve the Pyraminx (regular):**  
+> prior knowledge of cubing algorithms and cube faces is required.  
+1. 
+
