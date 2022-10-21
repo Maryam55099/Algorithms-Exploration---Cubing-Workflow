@@ -60,6 +60,7 @@ For more information and references: https://www.youtube.com/watch?v=R-R0KrXvWbc
 2. Now, put this side on the bottom face away from you and fix the top or tip of the triangle pyraminx duo until every side is all matching edge pieces with different center pieces.  
 3. Look for the matching side that has the same colour as the side we earlier placed on the bottom. Make sure the sides with pieces that need to switch are at the front.  
 4. Now perform the algorithm R', L, R, L'. With this the whole pyraminx duo should be solved!  
-For more information and references: https://www.youtube.com/watch?v=xB9OFNyi-Uk
+For more information and references: https://www.youtube.com/watch?v=xB9OFNyi-Uk  
 
-
+**Algorithm used to solve the Pyraminx boomerang:**  
+> prior knowledge of cubing algorithms and cube faces is required.  
