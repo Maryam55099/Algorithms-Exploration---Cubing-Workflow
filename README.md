@@ -27,7 +27,7 @@ Enjoy :)
 | Pyraminx boomerang   | Yes | I successfully reached my goal of solving the pyraminx boomerang within 30 seconds yesterday on 19-10-2022. | My next goal is to try and solve the pyraminx boomerang within 15 seconds. | 14.90 | 15.45  | 17.70  | 7.29  |
 | Pyraminx  | Yes | I successfully reached my goal of solving the pyraminx at under 30 seconds at the start of the week on 17-10-2022. | My next goal is to solve the pyraminx within 20 seconds. | 18.34  | 20.34  | 19.77  | 18.01  |  
 
-  
+**ALGORITHMS:**  
   **Algorithm used to solve the 3x3 rubik's cube: Advanced CFOP / Fridrich Method**  
 > prior knowledge of cubing algorithms and cube faces is required.  
 1. Start by creating a daisy on the top face of the cube, a daisy consists of one yellow piece in the center, and 4 white top-edge pieces on the cube. This can easily be done by performing basic algorithms such as turn, pull towrds, and pull away.  
@@ -69,9 +69,19 @@ For more information and references: https://www.youtube.com/watch?v=xB9OFNyi-Uk
 3. Now, perfrom the algorithm: R, L', R, L', R.  At this point you should two sides of the triangle solved, the one on the bottom plus on the 3 sides at the top front.  
 4. Now, repeat step 2 and perform the following algorithm: R, L', R, L', R.  
 5. At this point, the Pyraminx boomerang should be solved completely!  
-_Reference video not available as this was taught to me by Mr. Osudar in class._ 
+_Reference video not available as this method was taught to me by Mr. Osudar in class._ 
 
 **Algorithm used to solve the Pyraminx (regular):**  
 > prior knowledge of cubing algorithms and cube faces is required.  
-1. 
+1. Firstly pick a face of the triangle that you want to solve, now examine and play with it until you have 3 matching coloured center pieces.  
+2. For functional purposes turn the corners of you triangle to match the colour of the center pieces.  
+3. Now, place this face on the bottom and search the top of the triangle for the same coloured pieces to move to the bottom face.  
+4. Once you find one, figure out whether its on the right or left.  
+5. If its on the right, turn the coloured piece until its opposite coloured piece matches with its corresponding colour and then perfrom the algorithm: L', U, R'.  
+6. If its on the left, turn the coloured piece until its opposite coloured piece matches with its corresponding colour and then perfrom the algorithm: R, U', L.  
+7. Perform steps 4-6 as many times as you want until all the pieces belong to thier corresponding coloured faces.  
+8. Lastly, sometimes you need to turn the tip and first layer of the triangle to match the last layer to complete the Pyraminx.  
+
+**AN INTELLECTUAL QUESTION: HOW DOES CUBING RELATE TO MATH AND COMPUTER SCIENCE?**
+
 
