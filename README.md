@@ -97,7 +97,20 @@ For more information and references: https://www.youtube.com/watch?v=2H0FUvaaUsI
 
 **AN INTELLECTUAL QUESTION: HOW DOES CUBING RELATE TO MATH AND COMPUTER SCIENCE?/PROGRAMMING**  
 Rubik's Cube and mathematics have a number of connections. Rubik's Cube ties to arithmetic concepts like fractions, ratios, and proportional reasoning because it can be used to grasp surface area and volume as well as show a net of a familiar, three-dimensional solid. Second, as is common knowledge, the cube is a riddle of colour combinations, and combinations are studied in number theory and algebra, perhaps also in probability theory and other fields. All these are components of Math. Thirdly, let’s discuss how cubing is related to programming.  
-Although cubing and coding/programming are undoubtedly two very different tasks, they both call for the effective use of algorithms and problem-solving abilities. An algorithm is a list of instructions used in computer science to solve problems or carry out activities based on knowledge of potential solutions. Similar to this, algorithms in cubing are a set of moves used to solve a cube or create interesting patterns. Thus, cubing has applications in both mathematics and computer science.
+Although cubing and coding/programming are undoubtedly two very different tasks, they both call for the effective use of algorithms and problem-solving abilities. An algorithm is a list of instructions used in computer science to solve problems or carry out activities based on knowledge of potential solutions. Similar to this, algorithms in cubing are a set of moves used to solve a cube or create interesting patterns. Thus, cubing has applications in both mathematics and computer science.  
+Thank you for reading :)  
+  
+  
+**References:**
+Denning, P. (2016, September 21). CAN A RUBIK'S CUBE TEACH YOU PROGRAMMING? BLOG@UBIQUITY. https://blog.ubiquity.acm.org/can-a-rubiks-cube-teach-you-programming/  
+der Vieren, D. Van. (2019, May 28). Using Rubik's Cubes to Teach Math. Edutopia. https://www.edutopia.org/article/using-rubiks-cubes-teach-math  
+Different Rubik's Cube Solving Methods. (n.d.). Ruwix. https://ruwix.com/the-rubiks-cube/different-rubiks-cube-solving-methods/  
+How to Solve a Rubik's Cube | WIRED. (2019, September 5). Youtube. https://www.youtube.com/watch?v=R-R0KrXvWbc  
+How to Solve the Pyraminx Duo [Beginner Method]. (2015, May 19). Youtube. https://www.youtube.com/watch?v=xB9OFNyi-Uk  
+Pyraminx Layer By Layer | Easy Beginner's Tutorial. (2019, June 29). Youtube. https://www.youtube.com/watch?v=xIQtn2qazvg&t=4s  
+Rubik's Cube. (n.d.). The Strong National Museum of Play. https://www.museumofplay.org/toys/rubiks-cube/#:~:text=Hungarian%20design%20teacher%20and%20serious,it%20in%20stores%20in%201980  
+7 Benefits of Rubik's Cubes on Mental Health. (2022, June 23). HealthFitnessRevolution. https://www.healthfitnessrevolution.com/7-benefits-of-rubiks-cubes-on-mental-health/  
+What a Rubik's Cube can teach you about Programming. (2015, March 17). Medium. https://medium.com/hootsuite-engineering/what-a-rubiks-cube-can-teach-you-about-programming-82f54a6be69c  
 
 
 
