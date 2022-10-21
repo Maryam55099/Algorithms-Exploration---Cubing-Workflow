@@ -86,7 +86,9 @@ _Reference video not available as this method was taught to me by Mr. Osudar in 
 For more information and references: https://www.youtube.com/watch?v=2H0FUvaaUsI&t=1s
 
 **AN INTELLECTUAL QUESTION: HOW DOES CUBING RELATE TO MATH AND COMPUTER SCIENCE?/PROGRAMMING**  
-Rubik's Cube and mathematics have a number of connections. Rubik's Cube ties to arithmetic concepts like fractions, ratios, and proportional reasoning because it can be used to grasp surface area and volume as well as show a net of a familiar, three-dimensional solid. Second, as is common knowledge, the cube is a riddle of colour combinations, and combinations are studied in number theory and algebra, perhaps also in probability theory and other fields. All these are components of Math. Thirdly, let’s discuss how cubing is related to programming. 
+Rubik's Cube and mathematics have a number of connections. Rubik's Cube ties to arithmetic concepts like fractions, ratios, and proportional reasoning because it can be used to grasp surface area and volume as well as show a net of a familiar, three-dimensional solid. Second, as is common knowledge, the cube is a riddle of colour combinations, and combinations are studied in number theory and algebra, perhaps also in probability theory and other fields. All these are components of Math. Thirdly, let’s discuss how cubing is related to programming.  
+Although cubing and coding/programming are undoubtedly two very different tasks, they both call for the effective use of algorithms and problem-solving abilities. An algorithm is a list of instructions used in computer science to solve problems or carry out activities based on knowledge of potential solutions. Similar to this, algorithms in cubing are a set of moves used to solve a cube or create interesting patterns. Thus, cubing has applications in both mathematics and computer science.
+
 
 
 
