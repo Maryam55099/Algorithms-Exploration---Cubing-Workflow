@@ -50,7 +50,8 @@ Enjoy :)
 17. If the top layer's middle pieces are matching in a clockwise manner, perform the algorithm: F2 U’ R’ L F2 L’ R U’ F2.  
 18. Now your cube is completed!  
 19. > If in any case one face of the cube is not solved in step 15, then perform: F2 U’ R’ L F2 L’ R U’ F2 and continue with the rest of the steps until the cube is solved.  
-**Summary of this specific method:** This method is known best for beginners. The first two layers are solved by constructing the foundations for the first two layers, pairing up the pieces, and then placing them around the foundations. Learning the algorithms to solve the cube in two additional phases allows for the final layer to be addressed. Once algorithms have been drilled and the solver has had enough practise, all steps of this method become exceedingly simple and quick to perform. 
+
+**Summary of this specific method:** This method is known best for beginners. The first two layers are solved by constructing the foundations for the first two layers, pairing up the pieces, and then placing them around the foundations. Learning the algorithms to solve the cube in two additional phases allows for the final layer to be addressed. Once algorithms have been drilled and the solver has had enough practise, all steps of this method become exceedingly simple and quick to perform.  
 For more information and references: https://www.youtube.com/watch?v=R-R0KrXvWbc
   
 **Algorithm used to solve the Pyraminx duo:**  
