@@ -52,36 +52,38 @@ Enjoy :)
 
 19. > If in any case one face of the cube is not solved in step 15, then perform: F2 U’ R’ L F2 L’ R U’ F2 and continue with the rest of the steps until the cube is solved.  
 
-Summary of this Method: This method is known best for beginners. The first two layers are solved by constructing the foundations for the first two layers, pairing up the pieces, and then placing them around the foundations. Learning algorithms to solve the cube in two additional phases allows for the final layer to be addressed. Once algorithms have been drilled and the solver has had enough practise, all steps of this method become exceedingly simple and quick to perform.  
+**Summary of this Method:** This method is known best for beginners. The first two layers are solved by constructing the foundations for the first two layers, pairing up the pieces, and then placing them around the foundations. Learning algorithms to solve the cube in two additional phases allows for the final layer to be addressed. Once algorithms have been drilled and the solver has had enough practise, all steps of this method become exceedingly simple and quick to perform.  
 For more information and references: https://www.youtube.com/watch?v=R-R0KrXvWbc
   
 **Algorithm used to solve the Pyraminx duo:**  
 > prior knowledge of cubing algorithms and cube faces is required.  
 1. For starters, pick a side on the pyraminx duo and match all the outer edge pieces with one colour, for example, all the edge pieces could be green while the center is yellow.  
-2. Now, put this side on the bottom face away from you and fix the top or tip of the triangle pyraminx duo until every side is all matching edge pieces with different center pieces.  
+2. Now, put this side on the bottom face away from you and fix the top or tip of the triangle pyraminx duo until every side is all matching edge pieces with different centrepieces.  
 3. Look for the matching side that has the same colour as the side we earlier placed on the bottom. Make sure the sides with pieces that need to switch are at the front.  
-4. Now perform the algorithm R', L, R, L'. With this the whole pyraminx duo should be solved!  
+4. Now perform the algorithm R', L, R, L'. With this, the whole pyraminx duo should be solved!  
 For more information and references: https://www.youtube.com/watch?v=xB9OFNyi-Uk  
 
 **Algorithm used to solve the Pyraminx boomerang:**  
 > prior knowledge of cubing algorithms and cube faces is required.  
-1. Firstly perform different algorithms to solve one side of the triangle puzzle. This solved side will be placed down away from you.  
-2. Secondly, arrange the sides in a way that one side piece with two different colours in facing away from you respective to the solved-side on the bottom.   
-3. Now, perfrom the algorithm: R, L', R, L', R.  At this point you should two sides of the triangle solved, the one on the bottom plus on the 3 sides at the top front.  
+1. Firstly perform different algorithms to solve one side of the triangle puzzle. This solved side will be placed away from you.  
+2. Secondly, arrange the sides in a way that one side piece with two different colours is facing away from you respective to the solved side on the bottom.   
+3. Now, perform the algorithm: R, L', R, L', R.  At this point you should two sides of the triangle solved, the one on the bottom plus the 3 sides at the top front.  
 4. Now, repeat step 2 and perform the following algorithm: R, L', R, L', R.  
 5. At this point, the Pyraminx boomerang should be solved completely!  
+
 _Reference video not available as this method was taught to me by Mr. Osudar in class._ 
 
 **Algorithm used to solve the Pyraminx (regular):**  
 > prior knowledge of cubing algorithms and cube faces is required.  
-1. Firstly pick a face of the triangle that you want to solve, now examine and play with it until you have 3 matching coloured center pieces.  
-2. For functional purposes turn the corners of you triangle to match the colour of the center pieces.  
+1. Firstly pick a face of the triangle that you want to solve, now examine and play with it until you have 3 matching coloured centrepieces.  
+2. For functional purposes turn the corners of your triangle to match the colour of the centrepieces.  
 3. Now, place this face on the bottom and search the top of the triangle for the same coloured pieces to move to the bottom face.  
-4. Once you find one, figure out whether its on the right or left.  
-5. If its on the right, turn the coloured piece until its opposite coloured piece matches with its corresponding colour and then perfrom the algorithm: L', U, R'.  
-6. If its on the left, turn the coloured piece until its opposite coloured piece matches with its corresponding colour and then perfrom the algorithm: R, U', L.  
-7. Perform steps 4-6 as many times as you want until all the pieces belong to thier corresponding coloured faces.  
+4. Once you find one, figure out whether it's on the right or left.  
+5. If it's on the right, turn the coloured piece until its opposite coloured piece matches with its corresponding colour and then perform the algorithm: L', U, R'.  
+6. If it's on the left, turn the coloured piece until its opposite coloured piece matches with its corresponding colour and then perform the algorithm: R, U', L.  
+7. Perform steps 4-6 as many times as you want until all the pieces belong to their corresponding coloured faces.  
 8. Lastly, sometimes you need to turn the tip and first layer of the triangle to match the last layer to complete the Pyraminx.  
+For more information and references: https://www.youtube.com/watch?v=2H0FUvaaUsI&t=1s
 
 **AN INTELLECTUAL QUESTION: HOW DOES CUBING RELATE TO MATH AND COMPUTER SCIENCE?**
 
